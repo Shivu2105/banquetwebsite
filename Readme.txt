@@ -1,5 +1,6 @@
 How to run the Online Banquet Booking System Project using PHP and MySQL
 
+
 1. Download the project zip file
 
 2. Extract the file and copy obbs folder
